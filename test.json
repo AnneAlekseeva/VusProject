@@ -1,0 +1,31 @@
+{
+  "questions": [
+      {
+          "question": "What caused the heavy-duty vehicle to lose control?",
+          "options": [
+              "A sudden gust of wind",
+              "The driver fell asleep",
+              "A steep descent"
+          ],
+          "correct_option": 2
+      },
+      {
+          "question": "Who was at the front of the building when the vehicle collided with it?",
+          "options": [
+              "The driver of the heavy-duty vehicle",
+              "The mover duty officer",
+              "The mover duty officer"
+          ],
+          "correct_option": 1
+      },
+      {
+          "question": "What happened to the train's tailcar after the collision with the vehicle?",
+          "options": [
+              "It continued on its route without any damage",
+              "It was only slightly damaged",
+              "It was completely destroyed and subsequently burned"
+          ],
+          "correct_option": 2
+      }
+  ]
+}
